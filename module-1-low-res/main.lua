@@ -1,8 +1,8 @@
 --[[
     Game modules
 
-    hello-0
-    "Hello World"
+    module-1
+    "Low-res"
 
     -- Main Program --
 

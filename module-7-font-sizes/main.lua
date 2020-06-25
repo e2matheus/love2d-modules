@@ -1,8 +1,8 @@
 --[[
     Game modules
 
-    module-4
-    "Corners"
+    module-7
+    "Font sizes"
 
     -- Main Program --
 
