@@ -1,7 +1,7 @@
 --[[
     Game modules
 
-    hello-0
+    module-0
     "Hello World"
 
     -- Main Program --
