@@ -9,8 +9,11 @@
     Author: Eleazar Matheus
     eleazar.matt7@gmail.com
     
-    Features the "Hello World" text at the center of the screen, with
-    a low-res aesthetic, and a "retro-looking" Font.
+    Features a 16x16 pixel grid, represented as a list of squares.
+
+    Draws as many squares as needed for them to cover the entire screen.
+
+    Used for debugging.
 ]]
 
 -- push is a library that offers a way to draw the game at a virtual
