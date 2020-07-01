@@ -9,8 +9,10 @@
     Author: Eleazar Matheus
     eleazar.matt7@gmail.com
     
-    Features text at each of the corners of the screen, with a low-res
-    aesthetic, and a "retro-looking" Font.
+    Features a couple of font sizes inside a margin.
+
+    Draws a small text at the top center of the screen, and a large
+    text at the bottom center of the screen.
 ]]
 
 -- push is a library that offers a way to draw the game at a virtual
