@@ -306,6 +306,8 @@ Updates the chain's state, depending on the amount of seconds specified by the s
   - ***Module 29:*** Game state
   - ***Module 30:*** Sounds
   - ***Module 31:*** State object
+  - ***Module 32:*** Direction arrow
+  - ***Module 33:*** Direction object
 
 **[[⬆]](#ToC)**
 
