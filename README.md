@@ -28,6 +28,7 @@ These modules are small applications to test different [Love 2D][credits-love2d]
   - ***Module 21:*** [Chain move](#chain-move)
   - ***Module 22:*** [Chain grow](#chain-grow)
   - ***Module 23:*** [Chain velocity](#chain-velocity)
+  - [***Future modules***](#FrM)
 
 ## ***Module 0:*** <a name='hello'>[Hello World][module-0]</a>
 
