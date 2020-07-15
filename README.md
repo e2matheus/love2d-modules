@@ -28,6 +28,7 @@ These modules are small applications to test different [Love 2D][credits-love2d]
   - ***Module 21:*** [Chain move](#chain-move)
   - ***Module 22:*** [Chain grow](#chain-grow)
   - ***Module 23:*** [Chain velocity](#chain-velocity)
+  - ***Module 24:*** [Offset grid](#offset-grid)
   - [***Future modules***](#FrM)
 
 ## ***Module 0:*** <a name='hello'>[Hello World][module-0]</a>
@@ -296,9 +297,18 @@ Updates the chain's state, depending on the amount of seconds specified by the s
 
 **[[⬆]](#ToC)**
 
+## ***Module 24:*** <a name='offset-grid'>[Offset grid][module-24]</a>
+
+Displays a 16x16 pixel grid as a class object, smaller than the screen and offset by an arbitrary amount.
+
+Represents the grid object as code, and places all of its properties and functions in a separate file, as it was mentioned in the [Grid object](#grid-object) module. It uses vrld's [class][library-class] library to do so.
+
+Draws the aforementioned grid, which will be used as the playing field in later modules.
+
+**[[⬆]](#ToC)**
+
 ## <a name='FrM'>Future modules</a>
 
-  - ***Module 24:*** Offset grid
   - ***Module 25:*** Inner bounds
   - ***Module 26:*** Self collision
   - ***Module 27:*** Game over
@@ -368,5 +378,6 @@ This repository was inspired by [CS50's Introduction to Game Development][credit
    [module-21]: https://github.com/e2matheus/love2d-modules/tree/master/module-21-chain-move "Chain move module code"
    [module-22]: https://github.com/e2matheus/love2d-modules/tree/master/module-22-chain-grow "Chain grow module code"
    [module-23]: https://github.com/e2matheus/love2d-modules/tree/master/module-23-chain-velocity "Chain velocity module code"
+   [module-24]: https://github.com/e2matheus/love2d-modules/tree/master/module-24-offset-grid "Offset grid module code"
    
 **[[⬆]](#ToC)**
